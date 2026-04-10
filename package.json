@@ -1,19 +1,19 @@
 {
-	"name": "n8n-nodes-<...>",
+	"name": "n8n-nodes-redgif",
 	"version": "0.1.0",
-	"description": "",
+	"description": "n8n nodes for interacting with Redgif API",
 	"license": "MIT",
-	"homepage": "",
+	"homepage": "https://github.com/ManMike512/n8n-nodes-redgif",
 	"keywords": [
 		"n8n-community-node-package"
 	],
 	"author": {
-		"name": "",
-		"email": ""
+		"name": "ManMike512",
+		"email": "ManMike512@gmail.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/<...>/n8n-nodes-<...>.git"
+		"url": "https://github.com/ManMike512/n8n-nodes-redgif.git"
 	},
 	"scripts": {
 		"build": "n8n-node build",
